@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnbaluni&show_icons=true&locale=en&layout=compact" alt="amnbaluni" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnbaluni&show_icons=true&locale=en" alt="amnbaluni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnbaluni&" alt="amnbaluni" /></p>
