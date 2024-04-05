@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amanbaluni.abab@gmail.com**
 
-- ⚡ Fun fact **Documentaries, Audiobooks & Street Food ❤️**
+- ⚡ Fun fact **Documentaries, Audiobooks & Food ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
